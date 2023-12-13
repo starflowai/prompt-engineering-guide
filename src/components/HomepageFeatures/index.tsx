@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '轻松入门',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       从零开始，一步步教你如何学习提示词工程。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '专注中文',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        专门面向中文的提示词工程指南。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '资源全面',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        从入门到进阶，资源全面，让你快速成为提示词工程师。
       </>
     ),
   },
