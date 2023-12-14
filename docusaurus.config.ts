@@ -64,10 +64,10 @@ const config: Config = {
           position: 'left',
           label: '教程',
         },
-        {to: '/blog', label: '博客', position: 'left'},
+        { to: '/blog', label: '博客', position: 'left' },
         {
           href: 'https://starflow.tech',
-          label: 'Starflow AI 官网',
+          label: 'Starflow',
           position: 'right',
         },
         {
@@ -93,7 +93,7 @@ const config: Config = {
           title: '社区',
           items: [
             {
-              label: 'Starflow AI 官网',
+              label: 'Starflow',
               href: 'https://starflow.tech',
             },
           ],
@@ -119,6 +119,6 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-};
+}
 
 export default config;
