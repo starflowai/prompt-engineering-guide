@@ -34,4 +34,5 @@ AI，全称 Artificial Intelligence，中文翻译为人工智能，最简单的
 
 - [ ] OpenAI 官方提示词工程指南
 - [ ] Claude 官方提示词工程指南
+- [ ] 文心一言提示词工程指南
 - [ ] LangChain.js 实战系列
