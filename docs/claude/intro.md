@@ -1,5 +1,5 @@
 ---
-slug: openai/intro
+slug: claude/intro
 position: 1
 ---
 

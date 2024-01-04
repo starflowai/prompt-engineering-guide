@@ -1,10 +1,9 @@
 ---
 slug: intro
 sidebar_position: 1
-title: 介绍
 ---
 
-# 介绍
+# 介绍语
 
 ## 1. 什么是生成式 AI
 

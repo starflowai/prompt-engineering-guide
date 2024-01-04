@@ -1,6 +1,6 @@
 {
-  "label": "LangChain.js",
-  "position": 3,
+  "label": "框架：LangChain.js",
+  "position": 5,
   "link": {
     "type": "generated-index",
     "description": "这是包括了所有相关资源的索引"
